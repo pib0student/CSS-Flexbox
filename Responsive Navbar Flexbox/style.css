@@ -107,7 +107,7 @@ nav ul li a:hover {
     }
 }
 
-/* ukuran tablet */
+/* ukuran mobile */
 @media screen and (max-width: 576px) {
     .menu-toggle {
         display: flex;
